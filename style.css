@@ -1,0 +1,46 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+
+.N1{
+    color: orange;
+}
+.N3{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.N3 img{
+    width: 70%;
+}
+.Link{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+section{
+    height: 350px;
+    padding-bottom: 90px;
+}
+.dream-area{
+    background-image: url(download.jpeg);
+    background-repeat: no-repeat;
+}
+.single-ex{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+}
+footer{
+    text-align: center;
+}
